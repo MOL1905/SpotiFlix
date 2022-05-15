@@ -1,0 +1,2 @@
+﻿using SpotiFlix;
+new Menu();
